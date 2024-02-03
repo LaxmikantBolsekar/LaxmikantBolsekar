@@ -78,10 +78,10 @@
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/LaxmikantBolsekar" target="_blank">
+<a href="https://github.com/LaxmikantBolsekar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laxmikantbolsekar/" target="_blank">
+<a href="https://www.linkedin.com/in/laxmikantbolsekar/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:laxmikantbolsekar01@gmail.com" target="_blank">
@@ -89,31 +89,7 @@
 </a>
   
 
-<br/>  
-
-
-## Github Stats  
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDevdhar&hide_border=true&layout=compact" align="center" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=RohanDevdhar&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-
-<br/>  
-
-
- 
-  
-
-<br/>  
-
- 
-
-<br/>  
-
- 
-  
-
-<br/>  
+<br/> 
 
 <div align="center"></div>
 <br />
